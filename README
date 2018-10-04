@@ -1,0 +1,7 @@
+EDAE is an MTA for OS MISS.
+
+Warning: This repository is for educational purposes, and thus was
+transcoded from MISS Code to UTF-8. Therefore, even if someone were
+to find (either of) Venguerov's C compiler, the repository isn't
+going to build correctly. The archive includes text messages and
+those must be in MISS Code in order to work correctly.

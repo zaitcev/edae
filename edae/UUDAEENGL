@@ -1,0 +1,43 @@
+1.Lini0() reentered
+2.Unknown format of the file
+3.-3-
+4.Direction name is inacceptable
+5.No one direction created
+6.Too long "From:"
+7.Unexpected EOF in the RFC-822 header
+8.No colon in the header line
+9.Too long uucp-name
+10.Too long name for the local network
+11.Composed name in the local address
+12.Too many arguments for rmail
+13.Unknown X-command
+14.ASSERT: Xproc returned the empty address
+15.No X-command
+16."To:" is absent
+17.Empty address
+18.Uucp's "From *" not from user
+19.822's "From: *" not from user
+20.To many addresses in "To:"
+21.No such subnet
+22.Empty address list
+23.Error in the line: "From_"
+24.Unknown domain
+25.Home domain is empty or incorrect
+26.No such host
+27.Неудача при загрузке таблиц
+28.Loop in the route tables
+29.Too many hops, probably loop
+30.No D-file for X-file
+31.Bad sysntax in D-line
+32.ASSERT: No envelope foe InterFrom of InterPath
+33.Empty "To:"
+34.ASSERT: No return route
+35.Cannon import the uucp-link
+36.Too many or less tokens in the alias line
+37.Неудача при загрузке сининимов
+38.Address is empty
+39.-39-
+40.Пустой адрес для редиректора
+41.Ошибка загрузки перенаправлений
+42.Пустой список рассылки новостей
+43.X-command became longer than 1024 characters
